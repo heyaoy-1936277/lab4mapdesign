@@ -15,6 +15,6 @@ In the second layer, it is demonstrating the available transit stops throughout 
 
 The third layer retains the core concept of the second layer but introduces a revamped base map. This adjustment enhances user-friendliness through the inclusion of additional colors and features. 
 
-![](Assets/transit+base/base+data.jpg)
+![](Assets/Transit+base/base+data.jpg)
 
 
